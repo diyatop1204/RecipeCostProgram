@@ -8,5 +8,5 @@ The Recipe Cost Calculator written in Python 3 is designed to help you calculate
    - (Other files are not required for program to work)
 3. Locate Terminal/ Command Prompt.
 4. Navigate to directory containing the code file (Recipe Cost Program V3 (FINAL).py) and ensure csv data file (baking_data.csv) is located in the same directory.
-5. Run % python 'Recipe Cost Program V3 (FINAL).py'
+5. Run ```python 'Recipe Cost Program V3 (FINAL).py'```
 6. Follow on-screen instructions to calculate the total cost and cost per serving for your recipe.
